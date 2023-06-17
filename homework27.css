@@ -1,0 +1,17 @@
+body {
+    background-color: #1E1E1E;
+    margin: 0;
+}
+
+.box {
+    width: 1535px;
+    height: 750px;
+    background-color: #070F11;
+}
+
+.image {
+    width: 928px;
+    height: 930px;
+    margin-left: 608px;
+    margin-top: -1000px;
+}
